@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DisenoInterfaces1</string>
+    <string name="button_texto">Button</string>
+    <string name="boton_vert_1">BOTÓN VERTICAL 1</string>
+    <string name="button_vert_3">BOTÓN VERTICAL 3</string>
+    <string name="button_hor_1">BOTÓN 1</string>
+    <string name="button_hor_3">BOTÓN 3</string>
+</resources>
